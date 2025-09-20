@@ -1,4 +1,4 @@
-# shopify-tasks
+# Shopify-Tasks
 
 
 ## Home task 01
